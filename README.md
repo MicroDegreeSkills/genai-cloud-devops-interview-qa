@@ -1,20 +1,21 @@
 # Generative AI for Cloud DevOps — Interview Q&A
 
-A source-based interview preparation resource with standard and scenario-based questions and answers.
+A complete interview-preparation repository based on the supplied 32-page PDF, separated into standard and scenario-based questions.
 
 ## Contents
 
-- [`docs/interview-questions.md`](docs/interview-questions.md) — searchable Markdown transcription of the supplied PDF.
-- [`Gen AI for Cloud Devops - Interview Q&A.pdf`](Gen%20AI%20for%20Cloud%20Devops%20-%20Interview%20Q%26A.pdf) — original 32-page PDF.
+- [Standard-Based Interview Questions](docs/standard-interview-questions.md) — foundational concepts, definitions, and technical explanations.
+- [Scenario-Based Interview Questions](docs/scenario-based-interview-questions.md) — practical workplace situations and problem-solving answers.
+- [Original PDF](Gen%20AI%20for%20Cloud%20Devops%20-%20Interview%20Q%26A.pdf) — the source document, preserved unchanged.
 
 ## Topics
 
-Generative AI and LLMs, prompt engineering, AI workflow automation, n8n, Ollama, cloud architecture and IaC, Responsible AI, guardrails, hallucinations, RAG, grounding, output validation, and scenario-based system design.
+Generative AI, LLMs, prompt engineering, workflow automation, n8n, Ollama, cloud architecture, Infrastructure as Code, Responsible AI, guardrails, hallucinations, RAG, grounding, output validation, and production AI workflows.
 
 ## Source note
 
-The Markdown is transcribed from the accompanying PDF. The PDF is the original source if you need to verify formatting or diagrams.
+The Markdown files are transcribed from the accompanying PDF. The original PDF is included for reference, including its original formatting and diagrams.
 
 ## License
 
-No license is included. Add a license only if you have the right to redistribute this material.
+No license is included. Add one only if you have permission to redistribute this material.
