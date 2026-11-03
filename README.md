@@ -4,8 +4,6 @@ A complete interview-preparation repository based on the supplied 32-page PDF, s
 
 ## Contents
 
-- [Standard-Based Interview Questions](docs/standard-interview-questions.md) — foundational concepts, definitions, and technical explanations.
-- [Scenario-Based Interview Questions](docs/scenario-based-interview-questions.md) — practical workplace situations and problem-solving answers.
 - [Original PDF](Gen%20AI%20for%20Cloud%20Devops%20-%20Interview%20Q%26A.pdf) — the source document, preserved unchanged.
 
 ## Topics
