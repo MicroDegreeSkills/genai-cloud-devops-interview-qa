@@ -22,7 +22,7 @@ Explore **MicroDegree's Kannada-first E-Learning platform**, designed to help Ka
 - Build your technical knowledge through practical learning.
 
 **Explore MicroDegree E-Learning:**  
-https://www.microdegree.work/learning
+[https://www.microdegree.work/learning](https://www.microdegree.work/tech-courses)
 
 **Use Coupon Code: `TECH100`** at checkout.
 
