@@ -14,6 +14,3 @@ Generative AI, LLMs, prompt engineering, workflow automation, n8n, Ollama, cloud
 
 The Markdown files are transcribed from the accompanying PDF. The original PDF is included for reference, including its original formatting and diagrams.
 
-## License
-
-No license is included. Add one only if you have permission to redistribute this material.
